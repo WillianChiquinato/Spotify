@@ -1,0 +1,13 @@
+:root {
+    /* Fontes, fica bem mais facil fazer uma variavel quando uma linha se repete muito, so jogar a variavel no body */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* Cores */
+    --bg-icon: #131313;
+
+    --bg-arrow-color: rbga(0,0,0,7);
+}
+
+
+
+
